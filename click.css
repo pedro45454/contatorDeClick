@@ -1,0 +1,26 @@
+body {
+    background-color: #99daffe0;
+    text-align: center;
+}
+
+.button {
+    background-color: #00fff2;
+    color:#0d49b9;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+     font-family: "Brush Script MT", cursive;
+}
+
+.numero {
+    font-size: 2em;
+    font-weight: bold;
+    color: #00a2ff;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: rgb(2, 66, 241);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
